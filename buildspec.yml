@@ -17,7 +17,6 @@ phases:
     commands:
       - echo Configuring Apache HTTP Server
       - sudo systemctl enable apache2
-      - sudo systemctl start apache2
       # Add any additional configuration steps here
 
 artifacts:
