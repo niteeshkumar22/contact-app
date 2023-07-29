@@ -1,0 +1,17 @@
+	
+Type
+Description
+
+AmazonEC2FullAccess	AWS managed	
+Provides full access to Amazon EC2 via the AWS Management Console.
+
+AWSCodeDeployRole	AWS managed	
+Provides CodeDeploy service access to expand tags and interact with Auto Scaling on your behalf.
+
+AmazonEC2RoleforAWSCodeDeploy	AWS managed	
+Provides EC2 access to S3 bucket to download revision. This role is needed by the CodeDeploy agent on EC2 instances.
+
+AWSCodeDeployFullAccess	AWS managed	
+Provides full access to CodeDeploy resources.
+
+AWSCodePipeline_FullAccess
