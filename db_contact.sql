@@ -40,7 +40,7 @@ CREATE TABLE `tbl_contact` (
 --
 
 INSERT INTO `tbl_contact` (`id`, `fldName`, `fldEmail`, `fldPhone`, `fldMessage`) VALUES
-(1, 'GSV', 'test@gmail.com', '99999999', 'hi');
+(1, 'Niteesh', 'test@gmail.com', '99999999', 'hi');
 
 --
 -- Indexes for dumped tables
