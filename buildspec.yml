@@ -12,7 +12,7 @@ phases:
   build:
     commands:
       - echo Build started on `date`
-      - cp contact.html /var/www/html/
+      - cp contact.html /niteesh
   post_build:
     commands:
       - echo Configuring Apache HTTP Server
